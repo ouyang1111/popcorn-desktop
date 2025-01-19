@@ -49,7 +49,7 @@
     "@bower_components/underscore": "jashkenas/underscore#1.4.4 - 1.8.3",
     "@bower_components/video.js": "videojs/video.js#4.11.4",
     "@bower_components/videojs-youtube": "eXon/videojs-youtube#1.2.10",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.5.16",
     "airplayer": "2.0.0",
     "async": "2.1.2",
     "butter-provider": "0.6.0",
