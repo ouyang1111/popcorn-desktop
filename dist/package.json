@@ -84,7 +84,7 @@
     "sanitizer": "0.x.x",
     "semver": "^5.5.0",
     "send": "0.14.x",
-    "tar": "2.2.1",
+    "tar": "7.5.7",
     "temp": "0.x.x",
     "trakt.tv": "2.x.x",
     "trakt.tv-images": "1.x.x",
